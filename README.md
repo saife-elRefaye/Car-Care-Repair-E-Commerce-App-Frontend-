@@ -1,6 +1,10 @@
-# ccr_app
+# Car Care & Repair E-Commerce Mobile Application
 
-A new Flutter project.
+Graduation Project from Computer Science and Information Technologies College - AASTMT - Cairo, Egypt.
+
+Team members:
+
+Mohamed Ibrahim, Omar El-Deeb, Shehab Hesham, Yahia Salama and Youssef Abdelkawy
 
 ## Getting Started
 
